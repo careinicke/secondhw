@@ -1,0 +1,27 @@
+<style>#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #b3ffe6;
+  border: solid 1px #c3c3c3;
+  font-family: "Arial";
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+  font-family: "Arial";
+  background-color: #ff99dd;
+  font-color: #ffff4d;
+}
+
+h1 {
+  font-family: "Arial";
+  text-align: center;
+}
+
+h2 {
+  font-family: "Arial";
+  text-align: center;
+}
+
+</style>
