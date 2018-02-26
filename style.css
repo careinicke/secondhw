@@ -1,4 +1,4 @@
-<style>#panel, #flip {
+<stylesheet>#panel, #flip {
   padding: 5px;
   text-align: center;
   background-color: #b3ffe6;
@@ -24,4 +24,4 @@ h2 {
   text-align: center;
 }
 
-</style>
+</stylesheet>
